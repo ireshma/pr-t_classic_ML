@@ -1,2 +1,2 @@
 # pr-t
-Implementation of the PT-T curves with use cases
+Implementation of the PR-T curves with use cases
